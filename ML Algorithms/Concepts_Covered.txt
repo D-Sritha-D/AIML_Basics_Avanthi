@@ -1,0 +1,13 @@
+The various ML Algorithms that will be covered here include: 
+1. Basic Introduction to ML
+2. Simple Linear Regression 
+3. One Hot Encoding
+4. Gradient Descent and Cost Function 
+5. Dummy Variables and the Dummy Variable Trap
+6. MultiLinear Regression
+7. Logistic Regression
+8. Decsion Tree
+9. Support Vector Machine
+10. Random Forest
+11. K Means Classification 
+12. Naive Bayes Classification
